@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/75b792cb-3022-4a3a-8680-40dd30e2614f" /><div align="center">
+<img src="GUI-Picture.jpeg" width="800">
 
 # 🧑‍💻 Face Detection & Recognition System
 
@@ -102,18 +102,6 @@ Test‑set results, single seed (`QUICK_MODE = True`):
 * Data augmentation slightly **lowered** macro‑F1 (−2.0) in a single seed. Running 3 seeds (`QUICK_MODE = False`) gives a more reliable ablation.
 * Transfer learning's gain over the Basic CNN is small on this 12‑person dataset.
 * Open‑set performance is moderate: a fixed 60 % softmax threshold accepts 54 % of strangers, while the calibrated cosine threshold accepts 14 %.
-
-## 🖼️ Visual gallery
-
-> After running the notebook, copy the generated images from `figures/` into this repo and they will show up here.
-
-| Grad‑CAM | t‑SNE of embeddings | Confusion matrix |
-|:---:|:---:|:---:|
-| <img src="figures/16_gradcam.png" width="260"> | <img src="figures/17_tsne.png" width="260"> | <img src="figures/10_confusion_matrix.png" width="260"> |
-
-| Model comparison | Robustness | Unknown detection |
-|:---:|:---:|:---:|
-| <img src="figures/09_model_comparison.png" width="260"> | <img src="figures/15_robustness.png" width="260"> | <img src="figures/18_unknown_detection.png" width="260"> |
 
 ## 🚀 How to run
 
