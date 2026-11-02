@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# Downloaded / generated data
+scikit_learn_data/
+lfw_cache.tar
+yunet.onnx
+face_app_bundle/
+face_app_bundle.zip
+figures.zip
+
+# Personal data: never commit enrolled faces or attendance
+attendance.csv
+gallery*.npz
+enrolled/
+
+.DS_Store

@@ -1,0 +1,9 @@
+tensorflow>=2.15
+numpy
+pandas
+scipy
+matplotlib
+opencv-python>=4.8
+scikit-learn
+kagglehub
+jupyter
