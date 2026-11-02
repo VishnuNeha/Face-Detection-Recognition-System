@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/75b792cb-3022-4a3a-8680-40dd30e2614f" /><div align="center">
 
 # 🧑‍💻 Face Detection & Recognition System
 
@@ -11,14 +11,12 @@
 ![Dataset](https://img.shields.io/badge/Dataset-LFW-2ea44f)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-[**Open in Colab**](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/Face_Detection_and_Recognition_System.ipynb) ·
+[**Open in Colab**](https://colab.research.google.com/github/VishnuNeha/Face-Detection-Recognition-System/blob/main/Face_Detection_and_Recognition_System.ipynb) ·
 [**Results**](#-results) ·
 [**Features**](#-features) ·
 [**How to run**](#-how-to-run)
 
-<!-- 👉 Put a GIF or screenshot of your GUI here: -->
-<!-- <img src="assets/demo.gif" width="800"> -->
-
+<img src="GUI-Picture.jpg" width="800">
 </div>
 
 ---
@@ -130,8 +128,8 @@ Test‑set results, single seed (`QUICK_MODE = True`):
 ### Option B: Local machine
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/VishnuNeha/Face-Detection-Recognition-System.git
+cd Face-Detection-Recognition-System
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 jupyter notebook Face_Detection_and_Recognition_System.ipynb
@@ -171,6 +169,6 @@ jupyter notebook Face_Detection_and_Recognition_System.ipynb
 
 ## 🙋 Author
 
-**Your Name** · [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+**Natti Vishnu Neha** · [GitHub](https://github.com/VishnuNeha) · [LinkedIn](https://linkedin.com/in/natti-vishnu-neha/)
 
 If this helped you, please ⭐ the repo!
